@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "shiny-essay.html",
+    "href": "shiny-essay.html",
+    "title": "Shiny App Essay",
+    "section": "",
+    "text": "Introduction to Shiny Apps\nShiny is an R package that allows you to build interactive web applications directly from R.\nIt enables users to manipulate data inputs and instantly see the outputs without having to know any R code themselves.\n\n\n\nKey Features of Shiny\n\nReactive programming: Outputs update instantly when inputs change.\nCustom layouts: Apps can be customized with user inputs, tabs, plots, and tables.\nExtendable: You can integrate HTML, CSS, and JavaScript for advanced designs.\n\n\n\n\nExample Use Cases\n\nData dashboards\nReal-time financial monitoring\nPredictive modeling tools\n\n\n\n\nWhy Shiny is Useful\nShiny makes it easy for non-technical users to interact with complex data models.\nIt bridges the gap between data science and decision-making, by making data accessible, visual, and actionable."
+  },
+  {
+    "objectID": "shinylive-essay.html",
+    "href": "shinylive-essay.html",
+    "title": "Shinylive Essay",
+    "section": "",
+    "text": "Introduction to Shinylive\nShinylive is a new technology that allows you to run Shiny applications directly in a user’s web browser — without needing a backend server.\nIt packages your Shiny app to run entirely client-side, using WebAssembly.\n\n\n\nHow Shinylive Differs from Traditional Shiny\n\n\n\nFeature\nTraditional Shiny\nShinylive\n\n\n\n\nRequires Server\nYes\nNo\n\n\nSetup Complexity\nMedium-High\nLow\n\n\nSpeed\nDepends on server\nInstant in browser\n\n\nOffline Access\nNo\nPossible\n\n\n\n\n\n\nPros and Cons of Shinylive\nPros: - No need to maintain a server - Instant load times - Lower deployment costs - Easier to share apps\nCons: - Limited to apps that don’t require heavy computation or real-time server calls - May have browser performance limitations for very large datasets\n\n\n\nWhy Shinylive is Exciting\nShinylive opens up Shiny development to a wider audience by removing technical and financial barriers, while making deployment faster and easier."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joshua Arias | Digital Creator & Brand Builder",
+    "section": "",
+    "text": "I’m Joshua Arias, a digital marketer, creative strategist, and entrepreneur based in Los Angeles.\nI’m passionate about building brands that move culture — blending streetwear, marketing, and digital innovation into everything I do.\nCurrently finishing my Master’s in Digital Marketing at Cal Poly Pomona, while scaling multiple apparel brands and growing a creative consulting firm.\nThis site showcases a few of the tools and frameworks I use to bring ideas to life — built with Quarto, R, and a whole lot of caffeine.\n\n\n\n\n\nBrand Development & Strategy\nDigital Advertising (Meta, Google)\nData Visualization & Analytics\nE-commerce Growth (Shopify, Amazon)\nCreative Direction & Merchandising\n\n\n\n\n\n\nM.S. Digital Marketing, Cal Poly Pomona (Expected 2025)\nB.S. Apparel Merchandising and Management, Cal Poly Pomona (2022)\nCertifications: Google Analytics, Meta Ads Management"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Joshua Arias | Digital Creator & Brand Builder",
+    "section": "",
+    "text": "I’m Joshua Arias, a digital marketer, creative strategist, and entrepreneur based in Los Angeles.\nI’m passionate about building brands that move culture — blending streetwear, marketing, and digital innovation into everything I do.\nCurrently finishing my Master’s in Digital Marketing at Cal Poly Pomona, while scaling multiple apparel brands and growing a creative consulting firm.\nThis site showcases a few of the tools and frameworks I use to bring ideas to life — built with Quarto, R, and a whole lot of caffeine."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Joshua Arias | Digital Creator & Brand Builder",
+    "section": "",
+    "text": "Brand Development & Strategy\nDigital Advertising (Meta, Google)\nData Visualization & Analytics\nE-commerce Growth (Shopify, Amazon)\nCreative Direction & Merchandising"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joshua Arias | Digital Creator & Brand Builder",
+    "section": "",
+    "text": "M.S. Digital Marketing, Cal Poly Pomona (Expected 2025)\nB.S. Apparel Merchandising and Management, Cal Poly Pomona (2022)\nCertifications: Google Analytics, Meta Ads Management"
+  }
+]

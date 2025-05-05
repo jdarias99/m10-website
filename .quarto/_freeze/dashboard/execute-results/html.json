@@ -1,0 +1,17 @@
+{
+  "hash": "b6ac0b4e39cfcd07061c50e268a95f9c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nformat:\n  html:\n    theme: default\n    css: styles.css\n    toc: true\npage-layout: article\n---\n\n\n\n# Dashboard\n\nHi! Welcome to the data dashboard. Below are curated insights from the **mtcars** dataset.\n\n------------------------------------------------------------------------\n\n## Table: Car Dataset Overview\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n\nAttaching package: 'dplyr'\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n```\n\n\n:::\n\n```{.r .cell-code}\nlibrary(knitr)\n\nmtcars %>%\n  select(mpg, cyl, hp, wt) %>%\n  head(10) %>%\n  kable()\n```\n\n::: {.cell-output-display}\n\n\n|                  |  mpg| cyl|  hp|    wt|\n|:-----------------|----:|---:|---:|-----:|\n|Mazda RX4         | 21.0|   6| 110| 2.620|\n|Mazda RX4 Wag     | 21.0|   6| 110| 2.875|\n|Datsun 710        | 22.8|   4|  93| 2.320|\n|Hornet 4 Drive    | 21.4|   6| 110| 3.215|\n|Hornet Sportabout | 18.7|   8| 175| 3.440|\n|Valiant           | 18.1|   6| 105| 3.460|\n|Duster 360        | 14.3|   8| 245| 3.570|\n|Merc 240D         | 24.4|   4|  62| 3.190|\n|Merc 230          | 22.8|   4|  95| 3.150|\n|Merc 280          | 19.2|   6| 123| 3.440|\n\n\n:::\n:::\n\n\n## Chart: Horsepower vs. Weight\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = hp)) +\n  geom_point(color = \"steelblue\", size = 3) +\n  labs(\n    title = \"Horsepower vs. Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Horsepower\"\n  ) +\n  theme_minimal()\n```\n\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

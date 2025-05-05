@@ -1,0 +1,42 @@
+---
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+page-layout: article
+---
+
+
+# Dashboard
+
+Hi! Welcome to the data dashboard. Below are curated insights from the **mtcars** dataset.
+
+------------------------------------------------------------------------
+
+## Table: Car Dataset Overview
+
+```{r}
+library(dplyr)
+library(knitr)
+
+mtcars %>%
+  select(mpg, cyl, hp, wt) %>%
+  head(10) %>%
+  kable()
+```
+
+## Chart: Horsepower vs. Weight
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars, aes(x = wt, y = hp)) +
+  geom_point(color = "steelblue", size = 3) +
+  labs(
+    title = "Horsepower vs. Weight",
+    x = "Weight (1000 lbs)",
+    y = "Horsepower"
+  ) +
+  theme_minimal()
+```

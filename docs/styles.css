@@ -25,22 +25,20 @@ body {
   font-size: 1.1rem;
   color: #555555;
   margin-right: 15px;
-}
-
-/* Remove default underline on navbar links */
-.navbar a {
   text-decoration: none;
 }
 
-/* Add custom underline only on active page */
+/* Active Page Link */
 .navbar-nav .nav-link.active {
-  border-bottom: 2px solid black;
-  padding-bottom: 5px;
+  color: #000000; /* <- THIS keeps the active link black and visible */
+  font-weight: 700;
+  border-bottom: 2px solid #000000;
 }
 
-/* On hover, just slightly darken the link without adding extra underline */
+/* Hover State */
 .navbar-nav .nav-link:hover {
-  text-decoration: none; /* REMOVE browser underline */
+  color: #000000; /* Make hover also strong black */
+  text-decoration: none;
   border-bottom: 2px solid black;
 }
 

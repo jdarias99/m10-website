@@ -3,7 +3,7 @@
     "path": "~/Desktop/IBM6400/M10-Website/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "0",
+    "hash": "1858344381",
     "contents": "",
     "dirty": false,
     "created": 1746487254198.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "107,0",
-        "scrollLine": "89"
+        "cursorPosition": "8,0",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746489973,
+    "lastKnownWriteTime": 1746490857,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746489973902,
+    "last_content_update": 1746490857443,
     "read_only": false,
     "read_only_alternatives": []
 }

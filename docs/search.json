@@ -14,6 +14,27 @@
     "text": "Introduction to Shinylive\nShinylive is a new technology that allows you to run Shiny applications directly in a user’s web browser — without needing a backend server.\nIt packages your Shiny app to run entirely client-side, using WebAssembly.\n\n\n\nHow Shinylive Differs from Traditional Shiny\n\n\n\nFeature\nTraditional Shiny\nShinylive\n\n\n\n\nRequires Server\nYes\nNo\n\n\nSetup Complexity\nMedium-High\nLow\n\n\nSpeed\nDepends on server\nInstant in browser\n\n\nOffline Access\nNo\nPossible\n\n\n\n\n\n\nPros and Cons of Shinylive\nPros: - No need to maintain a server - Instant load times - Lower deployment costs - Easier to share apps\nCons: - Limited to apps that don’t require heavy computation or real-time server calls - May have browser performance limitations for very large datasets\n\n\n\nWhy Shinylive is Exciting\nShinylive opens up Shiny development to a wider audience by removing technical and financial barriers, while making deployment faster and easier."
   },
   {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Hi! Welcome to the data dashboard. Below are curated insights from the mtcars dataset.\n\n\n\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\nmtcars %&gt;%\n  select(mpg, cyl, hp, wt) %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\nmpg\ncyl\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n175\n3.440\n\n\nValiant\n18.1\n6\n105\n3.460\n\n\nDuster 360\n14.3\n8\n245\n3.570\n\n\nMerc 240D\n24.4\n4\n62\n3.190\n\n\nMerc 230\n22.8\n4\n95\n3.150\n\n\nMerc 280\n19.2\n6\n123\n3.440\n\n\n\n\n\n\n\n\n\nlibrary(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = hp)) +\n  geom_point(color = \"steelblue\", size = 3) +\n  labs(\n    title = \"Horsepower vs. Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Horsepower\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "dashboard.html#table-car-dataset-overview",
+    "href": "dashboard.html#table-car-dataset-overview",
+    "title": "Dashboard",
+    "section": "",
+    "text": "library(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\nmtcars %&gt;%\n  select(mpg, cyl, hp, wt) %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\nmpg\ncyl\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n175\n3.440\n\n\nValiant\n18.1\n6\n105\n3.460\n\n\nDuster 360\n14.3\n8\n245\n3.570\n\n\nMerc 240D\n24.4\n4\n62\n3.190\n\n\nMerc 230\n22.8\n4\n95\n3.150\n\n\nMerc 280\n19.2\n6\n123\n3.440"
+  },
+  {
+    "objectID": "dashboard.html#chart-horsepower-vs.-weight",
+    "href": "dashboard.html#chart-horsepower-vs.-weight",
+    "title": "Dashboard",
+    "section": "",
+    "text": "library(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = hp)) +\n  geom_point(color = \"steelblue\", size = 3) +\n  labs(\n    title = \"Horsepower vs. Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Horsepower\"\n  ) +\n  theme_minimal()"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
@@ -68,26 +89,5 @@
     "title": "Joshua Arias | Digital Creator & Brand Builder",
     "section": "",
     "text": "M.S. Digital Marketing, Cal Poly Pomona (Expected 2025)\nB.S. Apparel Merchandising and Management, Cal Poly Pomona (2022)\nCertifications: Google Analytics, Meta Ads Management"
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Dashboard",
-    "section": "",
-    "text": "Hi! Welcome to the data dashboard. Below are curated insights from the mtcars dataset.\n\n\n\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\nmtcars %&gt;%\n  select(mpg, cyl, hp, wt) %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\nmpg\ncyl\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n175\n3.440\n\n\nValiant\n18.1\n6\n105\n3.460\n\n\nDuster 360\n14.3\n8\n245\n3.570\n\n\nMerc 240D\n24.4\n4\n62\n3.190\n\n\nMerc 230\n22.8\n4\n95\n3.150\n\n\nMerc 280\n19.2\n6\n123\n3.440\n\n\n\n\n\n\n\n\n\nlibrary(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = hp)) +\n  geom_point(color = \"steelblue\", size = 3) +\n  labs(\n    title = \"Horsepower vs. Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Horsepower\"\n  ) +\n  theme_minimal()"
-  },
-  {
-    "objectID": "dashboard.html#table-car-dataset-overview",
-    "href": "dashboard.html#table-car-dataset-overview",
-    "title": "Dashboard",
-    "section": "",
-    "text": "library(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\nmtcars %&gt;%\n  select(mpg, cyl, hp, wt) %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\nmpg\ncyl\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n175\n3.440\n\n\nValiant\n18.1\n6\n105\n3.460\n\n\nDuster 360\n14.3\n8\n245\n3.570\n\n\nMerc 240D\n24.4\n4\n62\n3.190\n\n\nMerc 230\n22.8\n4\n95\n3.150\n\n\nMerc 280\n19.2\n6\n123\n3.440"
-  },
-  {
-    "objectID": "dashboard.html#chart-horsepower-vs.-weight",
-    "href": "dashboard.html#chart-horsepower-vs.-weight",
-    "title": "Dashboard",
-    "section": "",
-    "text": "library(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = hp)) +\n  geom_point(color = \"steelblue\", size = 3) +\n  labs(\n    title = \"Horsepower vs. Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Horsepower\"\n  ) +\n  theme_minimal()"
   }
 ]

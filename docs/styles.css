@@ -34,21 +34,14 @@ body {
 
 /* Add custom underline only on active page */
 .navbar-nav .nav-link.active {
-  border-bottom: 3px solid black;
+  border-bottom: 2px solid black;
   padding-bottom: 5px;
 }
 
 /* On hover, just slightly darken the link without adding extra underline */
 .navbar-nav .nav-link:hover {
   text-decoration: none; /* REMOVE browser underline */
-  border-bottom: 2px solid black; /* optional: lighter border or same */
-}
-
-/* Active Page Link */
-.navbar-nav .nav-link.active {
-  color: #000000;
-  font-weight: 700;
-  border-bottom: 2px solid #000000;
+  border-bottom: 2px solid black;
 }
 
 /* Sidebar (Table of Contents) Styles */
@@ -82,7 +75,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Buttons (if any) */
+/* Buttons */
 .btn-primary {
   background-color: #000000;
   border-color: #000000;
@@ -113,10 +106,7 @@ img {
   height: auto;
 }
 
-/* Resume Section (optional if you want extra styling later) */
+/* Resume Section */
 .resume-section {
   background-color: #ffffff;
-  padding: 40px;
-  border-radius: 10px;
-  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
-}
+  padding:

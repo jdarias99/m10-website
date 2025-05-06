@@ -3,7 +3,7 @@
     "path": "~/Desktop/IBM6400/M10-Website/dashboard.qmd",
     "project_path": "dashboard.qmd",
     "type": "quarto_markdown",
-    "hash": "406927465",
+    "hash": "3446882923",
     "contents": "",
     "dirty": false,
     "created": 1746483289972.0,
@@ -17,16 +17,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,3",
+        "cursorPosition": "24,9",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "532:353"
+        "rmdVisualModeLocation": "532:353",
+        "docOutlineSize": "110"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746488357,
+    "lastKnownWriteTime": 1746489934,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746488357776,
+    "last_content_update": 1746489934544,
     "read_only": false,
     "read_only_alternatives": []
 }

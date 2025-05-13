@@ -1,0 +1,33 @@
+---
+title: "Knight Cap: Branding From Concept to Reality"
+format: 
+  html:
+    page-layout: article
+    css: ../styles.css
+---
+
+::: {style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 2rem;"}
+<img src="knightcap1.jpg" alt="Knight Cap" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+
+::: {style="flex: 1; min-width: 250px; max-width: 600px; font-size: 1.8em; line-height: 1.6;"}
+Knight Cap came to us in the early stages of their journey, with a vision but no clear direction. Our job? Crafting a cohesive identity that could live across their restaurant, merchandise, and digital presence.
+:::
+:::
+
+## Overview
+
+Knight Cap is more than a name—it’s now a fully realized experience, carefully crafted from concept to execution.
+
+## Our Approach
+
+- **Logo Development** – We collaborated with the team to create a bold, recognizable logo that reflects the brand’s personality and fits seamlessly into the restaurant’s atmosphere.  
+- **Merchandise That Resonates** – Beyond aesthetics, we designed wearable, high-quality merchandise that felt on-brand and desirable for their audience.  
+- **Full Branding Execution** – From merchandise designs to in-store graphics, we ensured every touchpoint within the restaurant carried the same strong visual identity.
+
+## Results
+
+- Complete visual identity from logo to merch  
+- Brand cohesion across physical and digital spaces  
+- Merchandise that aligns with Knight Cap’s culture and customer experience  
+
+[← Back to Portfolio](../index.qmd)

@@ -4,7 +4,8 @@ format: html
 ---
 
 # Welcome.
-![](profile.jpeg){width=150px}
+
+![](profile.jpeg){width="150px"}
 
 ## About Me
 

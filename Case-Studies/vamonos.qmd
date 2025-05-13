@@ -1,0 +1,33 @@
+---
+title: "Vamonos: A Zero-Risk, High-Reward Brand System"
+format: 
+  html:
+    page-layout: article
+    css: ../styles.css
+---
+
+::: {style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 2rem;"}
+<img src="vamonos1.JPG" alt="Vamonos" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+
+::: {style="flex: 1; min-width: 250px; max-width: 600px; font-size: 1.8em; line-height: 1.6;"}
+We partnered with Vamonos to build a launch model that minimized inventory risk while maximizing reward. This involved bold identity work, lean product drops, and a scalable ecommerce experience tailored for social conversion.
+:::
+:::
+
+## Overview
+
+Vamonos approached us seeking a brand system that minimized risk while maximizing reward. Our solution delivered a bold identity that resonated with their target audience.
+
+## Our Approach
+
+- Built a scalable Shopify storefront.  
+- Designed all launch graphics and email flows.  
+- Created influencer-focused product drops.
+
+## Results
+
+- $15–18K average sales per drop  
+- 35% profit share model with influencer  
+- 3–4 week sellout rate with < $1k ad spend
+
+[← Back to Portfolio](../index.qmd)

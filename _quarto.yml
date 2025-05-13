@@ -10,12 +10,14 @@ website:
         href: index.qmd
       - text: "Portfolio"
         menu:
-          - text: "Dashboard"
-            href: dashboard.qmd
-          - text: "Shiny App Essay"
-            href: shiny-essay.qmd
-          - text: "Shinylive Essay"
-            href: shinylive-essay.qmd
+          - text: "Vamonos"
+            href: case-studies/vamonos.html
+          - text: "Knight Cap"
+            href: case-studies/knightcap.html
+          - text: "The Hair Shop"
+            href: case-studies/thehairshop.html
+          - text: "NOJUNK"
+            href: case-studies/nojunk.html
       - text: "ABLISS"
         href: abliss.qmd
       - text: "Arias Collective"

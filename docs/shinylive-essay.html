@@ -98,16 +98,20 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-portfolio">    
         <li>
-    <a class="dropdown-item" href="./dashboard.html">
- <span class="dropdown-text">Dashboard</span></a>
+    <a class="dropdown-item" href="./case-studies/vamonos.html">
+ <span class="dropdown-text">Vamonos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shiny-essay.html">
- <span class="dropdown-text">Shiny App Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/knightcap.html">
+ <span class="dropdown-text">Knight Cap</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shinylive-essay.html">
- <span class="dropdown-text">Shinylive Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/thehairshop.html">
+ <span class="dropdown-text">The Hair Shop</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./case-studies/nojunk.html">
+ <span class="dropdown-text">NOJUNK</span></a>
   </li>  
     </ul>
   </li>
@@ -304,7 +308,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jarias\.quarto\.pub\/joshua-arias--portfolio");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

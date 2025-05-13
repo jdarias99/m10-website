@@ -1,0 +1,35 @@
+---
+title: "The Hair Shop: Seamless Integration of PR & Retail Merchandise"
+format: 
+  html:
+    page-layout: article
+    css: ../styles.css
+---
+
+::: {style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-top: 2rem;"}
+<img src="ths1.jpeg" alt="The Hair Shop" style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.1);" />
+
+::: {style="flex: 1; min-width: 250px; max-width: 600px; font-size: 1.8em; line-height: 1.6;"}
+The Hair Shop needed an effortless, stylish product that could serve dual purposes:  
+– A marketing asset for PR campaigns  
+– An easy-to-sell in-store product
+:::
+:::
+
+## Overview
+
+This wasn’t just about making merch—it was about creating a product that enhances the brand’s marketing power while feeling essential to the customer.
+
+## Our Approach
+
+- **Versatile, Wearable Product Design** – The end result? An easy-to-love item that felt premium but accessible, bridging the gap between brand identity and real-world usability.  
+- **Scalable for PR & Retail** – Whether used in influencer marketing kits or sold in-store, the product seamlessly aligned with the brand’s aesthetic and customer expectations.  
+- **Strategic Merchandising Integration** – Every element, from packaging to placement, was optimized to drive both brand awareness and revenue.
+
+## Results
+
+- Dual-purpose merchandise for marketing & retail  
+- Increased visibility through influencer campaigns  
+- In-store product that felt organic, not promotional  
+
+[← Back to Portfolio](../index.qmd)

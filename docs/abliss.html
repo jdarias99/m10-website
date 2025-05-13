@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Joshua Arias | Portfolio</title>
+<title>Joshua Arias | Portfolio - ABLISS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -98,16 +99,20 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-portfolio">    
         <li>
-    <a class="dropdown-item" href="./dashboard.html">
- <span class="dropdown-text">Dashboard</span></a>
+    <a class="dropdown-item" href="./case-studies/vamonos.html">
+ <span class="dropdown-text">Vamonos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shiny-essay.html">
- <span class="dropdown-text">Shiny App Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/knightcap.html">
+ <span class="dropdown-text">Knight Cap</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shinylive-essay.html">
- <span class="dropdown-text">Shinylive Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/thehairshop.html">
+ <span class="dropdown-text">The Hair Shop</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./case-studies/nojunk.html">
+ <span class="dropdown-text">NOJUNK</span></a>
   </li>  
     </ul>
   </li>
@@ -139,23 +144,45 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#abliss-clothing" id="toc-abliss-clothing" class="nav-link active" data-scroll-target="#abliss-clothing">ABLISS Clothing</a></li>
+  <li><a href="#preview" id="toc-preview" class="nav-link active" data-scroll-target="#preview">Preview</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">ABLISS</h1>
+</div>
 
 
 
-<section id="abliss-clothing" class="level1">
-<h1>ABLISS Clothing</h1>
-<p>ABLISS is a Los Angeles-based streetwear brand that blends grunge, minimalism, and California culture. Built to move with the spirit of rebellion and creativity, ABLISS represents pushing forward no matter the obstacle.</p>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>ABLISS is a Los Angeles-born streetwear label rooted in edge and clarity. With clean lines, stripped-down graphics, and a nod to West Coast culture, ABLISS builds pieces for those who move with intent — quiet, bold, and unshakably forward.</p>
 <blockquote class="blockquote">
-<p>“Forever Forward.”</p>
+<p><strong>“Forever Forward.”</strong></p>
 </blockquote>
-<p><a href="https://ablissclo.com">Visit ABLISS Website</a> 🚀</p>
+<hr>
+<section id="preview" class="level2">
+<h2 class="anchored" data-anchor-id="preview">Preview</h2>
+<p><img src="abliss1.png" alt="ABLISS Screenshot 1" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"></p>
+<p><img src="abliss2.png" alt="ABLISS Screenshot 2" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"></p>
+<hr>
+<div style="margin-top: 2rem;">
+<p><a href="https://ablissclo.com" target="_blank" style="font-weight: bold; font-size: 1.1em; background-color: black; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; box-shadow: 0px 2px 8px rgba(0,0,0,0.15); display: inline-block;"> Visit The ABLISS Website 🚀 </a></p>
+</div>
 
 
 </section>
@@ -242,7 +269,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jarias\.quarto\.pub\/joshua-arias--portfolio");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

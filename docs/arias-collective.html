@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Joshua Arias | Portfolio</title>
+<title>Joshua Arias | Portfolio - Arias Collective</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -98,16 +99,20 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-portfolio">    
         <li>
-    <a class="dropdown-item" href="./dashboard.html">
- <span class="dropdown-text">Dashboard</span></a>
+    <a class="dropdown-item" href="./case-studies/vamonos.html">
+ <span class="dropdown-text">Vamonos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shiny-essay.html">
- <span class="dropdown-text">Shiny App Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/knightcap.html">
+ <span class="dropdown-text">Knight Cap</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./shinylive-essay.html">
- <span class="dropdown-text">Shinylive Essay</span></a>
+    <a class="dropdown-item" href="./case-studies/thehairshop.html">
+ <span class="dropdown-text">The Hair Shop</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./case-studies/nojunk.html">
+ <span class="dropdown-text">NOJUNK</span></a>
   </li>  
     </ul>
   </li>
@@ -139,25 +144,59 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#arias-collective" id="toc-arias-collective" class="nav-link active" data-scroll-target="#arias-collective">Arias Collective</a></li>
+  <li><a href="#visual-preview" id="toc-visual-preview" class="nav-link active" data-scroll-target="#visual-preview">Visual Preview</a></li>
+  <li><a href="#core-services" id="toc-core-services" class="nav-link" data-scroll-target="#core-services">Core Services</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Arias Collective</h1>
+</div>
 
 
 
-<section id="arias-collective" class="level1">
-<h1>Arias Collective</h1>
-<p>Arias Collective is a creative consulting firm founded by Joshua Arias, delivering brand strategy, design, e-commerce solutions, and marketing leadership to emerging brands.</p>
-<p><strong>Services:</strong> - Brand Identity &amp; Development - Creative Direction - Website &amp; E-commerce Management - Digital Advertising Strategy</p>
-<p>Currently working with apparel brands, influencers, and lifestyle companies to scale their reach and revenue.</p>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Arias Collective is a creative consultancy built to scale brands with clarity and intention. Led by Joshua Arias, the collective curates tailored teams to deliver brand strategy, design, e-commerce, and marketing direction that aligns with modern culture and business growth.</p>
 <blockquote class="blockquote">
-<p>“Tailored teams. Elevated execution.”</p>
+<p><strong>“Tailored teams. Elevated execution.”</strong></p>
 </blockquote>
-<p><a href="https://ariascollective.com">Visit The Arias Collective Website</a> 🚀</p>
+<hr>
+<section id="visual-preview" class="level2">
+<h2 class="anchored" data-anchor-id="visual-preview">Visual Preview</h2>
+<p><img src="AC1.png" alt="Arias Collective Screenshot 1" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"></p>
+<p><img src="AC2.png" alt="Arias Collective Screenshot 2" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"></p>
+<hr>
+</section>
+<section id="core-services" class="level2">
+<h2 class="anchored" data-anchor-id="core-services">Core Services</h2>
+<ul>
+<li>Brand Identity &amp; Development<br>
+</li>
+<li>Creative Direction<br>
+</li>
+<li>Website &amp; E-commerce Management<br>
+</li>
+<li>Digital Advertising &amp; Paid Strategy</li>
+</ul>
+<hr>
+<div style="margin-top: 2rem;">
+<p><a href="https://ariascollective.com" target="_blank" style="font-weight: bold; font-size: 1.1em; background-color: black; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; box-shadow: 0px 2px 8px rgba(0,0,0,0.15); display: inline-block;"> Visit Arias Collective 🚀 </a></p>
+</div>
 
 
 </section>
@@ -244,7 +283,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jarias\.quarto\.pub\/joshua-arias--portfolio");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

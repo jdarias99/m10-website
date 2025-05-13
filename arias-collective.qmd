@@ -1,19 +1,36 @@
 ---
-format: html
+title: "Arias Collective"
+format: 
+  html:
+    page-layout: article
+    css: ../styles.css
 ---
 
-# Arias Collective
+Arias Collective is a creative consultancy built to scale brands with clarity and intention. Led by Joshua Arias, the collective curates tailored teams to deliver brand strategy, design, e-commerce, and marketing direction that aligns with modern culture and business growth.
 
-Arias Collective is a creative consulting firm founded by Joshua Arias, delivering brand strategy, design, e-commerce solutions, and marketing leadership to emerging brands.
+> **"Tailored teams. Elevated execution."**
 
-**Services:**
-- Brand Identity & Development
-- Creative Direction
-- Website & E-commerce Management
-- Digital Advertising Strategy
+---
 
-Currently working with apparel brands, influencers, and lifestyle companies to scale their reach and revenue.
+## Visual Preview
 
-> "Tailored teams. Elevated execution."
+<img src="AC1.png" alt="Arias Collective Screenshot 1" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
 
-[Visit The Arias Collective Website](https://ariascollective.com) 🚀
+<img src="AC2.png" alt="Arias Collective Screenshot 2" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
+
+---
+
+## Core Services
+
+- Brand Identity & Development  
+- Creative Direction  
+- Website & E-commerce Management  
+- Digital Advertising & Paid Strategy
+
+---
+
+<div style="margin-top: 2rem;">
+  <a href="https://ariascollective.com" target="_blank" style="font-weight: bold; font-size: 1.1em; background-color: black; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; box-shadow: 0px 2px 8px rgba(0,0,0,0.15); display: inline-block;">
+    Visit Arias Collective 🚀
+  </a>
+</div>

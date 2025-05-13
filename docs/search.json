@@ -7,6 +7,62 @@
     "text": "Introduction to Shiny Apps\nShiny is an R package that allows you to build interactive web applications directly from R.\nIt enables users to manipulate data inputs and instantly see the outputs without having to know any R code themselves.\n\n\n\nKey Features of Shiny\n\nReactive programming: Outputs update instantly when inputs change.\nCustom layouts: Apps can be customized with user inputs, tabs, plots, and tables.\nExtendable: You can integrate HTML, CSS, and JavaScript for advanced designs.\n\n\n\n\nExample Use Cases\n\nData dashboards\nReal-time financial monitoring\nPredictive modeling tools\n\n\n\n\nWhy Shiny is Useful\nShiny makes it easy for non-technical users to interact with complex data models.\nIt bridges the gap between data science and decision-making, by making data accessible, visual, and actionable."
   },
   {
+    "objectID": "Case-Studies/Knightcap.html",
+    "href": "Case-Studies/Knightcap.html",
+    "title": "Knight Cap: Branding From Concept to Reality",
+    "section": "",
+    "text": "Knight Cap came to us in the early stages of their journey, with a vision but no clear direction. Our job? Crafting a cohesive identity that could live across their restaurant, merchandise, and digital presence."
+  },
+  {
+    "objectID": "Case-Studies/Knightcap.html#overview",
+    "href": "Case-Studies/Knightcap.html#overview",
+    "title": "Knight Cap: Branding From Concept to Reality",
+    "section": "Overview",
+    "text": "Overview\nKnight Cap is more than a name—it’s now a fully realized experience, carefully crafted from concept to execution."
+  },
+  {
+    "objectID": "Case-Studies/Knightcap.html#our-approach",
+    "href": "Case-Studies/Knightcap.html#our-approach",
+    "title": "Knight Cap: Branding From Concept to Reality",
+    "section": "Our Approach",
+    "text": "Our Approach\n\nLogo Development – We collaborated with the team to create a bold, recognizable logo that reflects the brand’s personality and fits seamlessly into the restaurant’s atmosphere.\n\nMerchandise That Resonates – Beyond aesthetics, we designed wearable, high-quality merchandise that felt on-brand and desirable for their audience.\n\nFull Branding Execution – From merchandise designs to in-store graphics, we ensured every touchpoint within the restaurant carried the same strong visual identity."
+  },
+  {
+    "objectID": "Case-Studies/Knightcap.html#results",
+    "href": "Case-Studies/Knightcap.html#results",
+    "title": "Knight Cap: Branding From Concept to Reality",
+    "section": "Results",
+    "text": "Results\n\nComplete visual identity from logo to merch\n\nBrand cohesion across physical and digital spaces\n\nMerchandise that aligns with Knight Cap’s culture and customer experience\n\n← Back to Portfolio"
+  },
+  {
+    "objectID": "Case-Studies/nojunk.html",
+    "href": "Case-Studies/nojunk.html",
+    "title": "NOJUNK: Niche-Driven Brand Strategy for Maximum Loyalty",
+    "section": "",
+    "text": "With NOJUNK, the goal was simple: turn followers into repeat customers by mastering their niche.\nRooted in lifestyle and motorsports culture, we crafted a brand experience that spoke directly to the right audience with the right messaging."
+  },
+  {
+    "objectID": "Case-Studies/nojunk.html#overview",
+    "href": "Case-Studies/nojunk.html#overview",
+    "title": "NOJUNK: Niche-Driven Brand Strategy for Maximum Loyalty",
+    "section": "Overview",
+    "text": "Overview\nBy keeping every move intentional and community-driven, NOJUNK has become more than just a brand—it’s a lifestyle."
+  },
+  {
+    "objectID": "Case-Studies/nojunk.html#our-approach",
+    "href": "Case-Studies/nojunk.html#our-approach",
+    "title": "NOJUNK: Niche-Driven Brand Strategy for Maximum Loyalty",
+    "section": "Our Approach",
+    "text": "Our Approach\n\nDeep Niche Research – Understanding the motorsports and lifestyle scene allowed us to craft designs and messaging that felt authentic, not forced.\n\nCommunity Engagement & Exclusivity – By leveraging social trust and organic hype, we positioned NOJUNK as the go-to brand for diehard fans.\n\nRetention-Focused Marketing – Targeted remarketing strategies and exclusive drops kept customers coming back for more, creating a cult-like loyalty around the brand."
+  },
+  {
+    "objectID": "Case-Studies/nojunk.html#results",
+    "href": "Case-Studies/nojunk.html#results",
+    "title": "NOJUNK: Niche-Driven Brand Strategy for Maximum Loyalty",
+    "section": "Results",
+    "text": "Results\n\nHigh customer retention with exclusive drops\n\nStrong community-led brand perception\n\nGrowth through word-of-mouth and remarketing\n\n← Back to Portfolio"
+  },
+  {
     "objectID": "shinylive-essay.html",
     "href": "shinylive-essay.html",
     "title": "Shinylive Essay",
@@ -49,18 +105,46 @@
     "text": "Digital Creator | Brand Strategist | E-commerce Specialist\n\n\n\n\nM.S. Digital Marketing – Cal Poly Pomona (Expected 2025)\nB.S. Apparel Merchandising and Management – Cal Poly Pomona\n\n\n\n\n\nE-Commerce Manager – Abbyson Living\n2023–2025\n- Managed Costco, Sam’s Club, and other big-box retailer accounts. - Oversaw digital sales channels generating millions in monthly revenue. - Led paid media campaigns, inventory management, and merchandising.\nFounder – ABLISS Clothing\n2020–Present\n- Designed and launched streetwear collections inspired by LA culture. - Scaled brand to $XX in sales organically through community building and marketing.\nCo-Founder – Arias Collective\n2025–Present\n- Providing creative consulting, Shopify builds, and digital marketing services for small businesses.\n\n\n\n\n\nDigital Advertising (Meta, Google, TikTok)\nE-commerce Platforms (Shopify, Wix)\nCreative Strategy\nData Analytics (R, SQL, Google Analytics)\nBranding & Identity Development\n\n\n\n\n\n\nEmail: joshuadarias@gmail.com\nPortfolio: jarias.quarto.pub/joshua-arias–portfolio/"
   },
   {
+    "objectID": "README 2.html",
+    "href": "README 2.html",
+    "title": "m10-website",
+    "section": "",
+    "text": "m10-website\nJoshua Arias | Portfolio Website"
+  },
+  {
     "objectID": "abliss.html",
     "href": "abliss.html",
-    "title": "ABLISS Clothing",
+    "title": "ABLISS",
     "section": "",
-    "text": "ABLISS Clothing\nABLISS is a Los Angeles-based streetwear brand that blends grunge, minimalism, and California culture. Built to move with the spirit of rebellion and creativity, ABLISS represents pushing forward no matter the obstacle.\n\n“Forever Forward.”\n\nVisit ABLISS Website 🚀"
+    "text": "ABLISS is a Los Angeles-born streetwear label rooted in edge and clarity. With clean lines, stripped-down graphics, and a nod to West Coast culture, ABLISS builds pieces for those who move with intent — quiet, bold, and unshakably forward."
+  },
+  {
+    "objectID": "abliss.html#preview",
+    "href": "abliss.html#preview",
+    "title": "ABLISS",
+    "section": "Preview",
+    "text": "Preview\n\n\n\n\n Visit The ABLISS Website 🚀"
   },
   {
     "objectID": "arias-collective.html",
     "href": "arias-collective.html",
     "title": "Arias Collective",
     "section": "",
-    "text": "Arias Collective\nArias Collective is a creative consulting firm founded by Joshua Arias, delivering brand strategy, design, e-commerce solutions, and marketing leadership to emerging brands.\nServices: - Brand Identity & Development - Creative Direction - Website & E-commerce Management - Digital Advertising Strategy\nCurrently working with apparel brands, influencers, and lifestyle companies to scale their reach and revenue.\n\n“Tailored teams. Elevated execution.”\n\nVisit The Arias Collective Website 🚀"
+    "text": "Arias Collective is a creative consultancy built to scale brands with clarity and intention. Led by Joshua Arias, the collective curates tailored teams to deliver brand strategy, design, e-commerce, and marketing direction that aligns with modern culture and business growth."
+  },
+  {
+    "objectID": "arias-collective.html#visual-preview",
+    "href": "arias-collective.html#visual-preview",
+    "title": "Arias Collective",
+    "section": "Visual Preview",
+    "text": "Visual Preview"
+  },
+  {
+    "objectID": "arias-collective.html#core-services",
+    "href": "arias-collective.html#core-services",
+    "title": "Arias Collective",
+    "section": "Core Services",
+    "text": "Core Services\n\nBrand Identity & Development\n\nCreative Direction\n\nWebsite & E-commerce Management\n\nDigital Advertising & Paid Strategy\n\n\n\n Visit Arias Collective 🚀"
   },
   {
     "objectID": "index.html",
@@ -89,5 +173,61 @@
     "title": "Joshua Arias | Digital Creator & Brand Builder",
     "section": "",
     "text": "M.S. Digital Marketing, Cal Poly Pomona (Expected 2025)\nB.S. Apparel Merchandising and Management, Cal Poly Pomona (2022)\nCertifications: Google Analytics, Meta Ads Management"
+  },
+  {
+    "objectID": "Case-Studies/vamonos.html",
+    "href": "Case-Studies/vamonos.html",
+    "title": "Vamonos: A Zero-Risk, High-Reward Brand System",
+    "section": "",
+    "text": "We partnered with Vamonos to build a launch model that minimized inventory risk while maximizing reward. This involved bold identity work, lean product drops, and a scalable ecommerce experience tailored for social conversion."
+  },
+  {
+    "objectID": "Case-Studies/vamonos.html#overview",
+    "href": "Case-Studies/vamonos.html#overview",
+    "title": "Vamonos: A Zero-Risk, High-Reward Brand System",
+    "section": "Overview",
+    "text": "Overview\nVamonos approached us seeking a brand system that minimized risk while maximizing reward. Our solution delivered a bold identity that resonated with their target audience."
+  },
+  {
+    "objectID": "Case-Studies/vamonos.html#our-approach",
+    "href": "Case-Studies/vamonos.html#our-approach",
+    "title": "Vamonos: A Zero-Risk, High-Reward Brand System",
+    "section": "Our Approach",
+    "text": "Our Approach\n\nBuilt a scalable Shopify storefront.\n\nDesigned all launch graphics and email flows.\n\nCreated influencer-focused product drops."
+  },
+  {
+    "objectID": "Case-Studies/vamonos.html#results",
+    "href": "Case-Studies/vamonos.html#results",
+    "title": "Vamonos: A Zero-Risk, High-Reward Brand System",
+    "section": "Results",
+    "text": "Results\n\n$15–18K average sales per drop\n\n35% profit share model with influencer\n\n3–4 week sellout rate with &lt; $1k ad spend\n\n← Back to Portfolio"
+  },
+  {
+    "objectID": "Case-Studies/thehairshop.html",
+    "href": "Case-Studies/thehairshop.html",
+    "title": "The Hair Shop: Seamless Integration of PR & Retail Merchandise",
+    "section": "",
+    "text": "The Hair Shop needed an effortless, stylish product that could serve dual purposes:\n– A marketing asset for PR campaigns\n– An easy-to-sell in-store product"
+  },
+  {
+    "objectID": "Case-Studies/thehairshop.html#overview",
+    "href": "Case-Studies/thehairshop.html#overview",
+    "title": "The Hair Shop: Seamless Integration of PR & Retail Merchandise",
+    "section": "Overview",
+    "text": "Overview\nThis wasn’t just about making merch—it was about creating a product that enhances the brand’s marketing power while feeling essential to the customer."
+  },
+  {
+    "objectID": "Case-Studies/thehairshop.html#our-approach",
+    "href": "Case-Studies/thehairshop.html#our-approach",
+    "title": "The Hair Shop: Seamless Integration of PR & Retail Merchandise",
+    "section": "Our Approach",
+    "text": "Our Approach\n\nVersatile, Wearable Product Design – The end result? An easy-to-love item that felt premium but accessible, bridging the gap between brand identity and real-world usability.\n\nScalable for PR & Retail – Whether used in influencer marketing kits or sold in-store, the product seamlessly aligned with the brand’s aesthetic and customer expectations.\n\nStrategic Merchandising Integration – Every element, from packaging to placement, was optimized to drive both brand awareness and revenue."
+  },
+  {
+    "objectID": "Case-Studies/thehairshop.html#results",
+    "href": "Case-Studies/thehairshop.html#results",
+    "title": "The Hair Shop: Seamless Integration of PR & Retail Merchandise",
+    "section": "Results",
+    "text": "Results\n\nDual-purpose merchandise for marketing & retail\n\nIncreased visibility through influencer campaigns\n\nIn-store product that felt organic, not promotional\n\n← Back to Portfolio"
   }
 ]

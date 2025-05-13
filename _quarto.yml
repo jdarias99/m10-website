@@ -11,20 +11,19 @@ website:
       - text: "Portfolio"
         menu:
           - text: "Vamonos"
-            href: vamonos.qmd
+            href: Case-Studies/vamonos.html
           - text: "Knight Cap"
-            href: knightcap.qmd
+            href: Case-Studies/knightcap.html
           - text: "The Hair Shop"
-            href: thehairshop.qmd
+            href: Case-Studies/thehairshop.html
           - text: "NOJUNK"
-            href: nojunk.qmd
+            href: Case-Studies/nojunk.html
       - text: "ABLISS"
         href: abliss.qmd
       - text: "Arias Collective"
         href: arias-collective.qmd
       - text: "Resume"
         href: resume.qmd
-
 
 format:
   html:
